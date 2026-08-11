@@ -1,0 +1,5 @@
+Model,Parameters,Search_Space,Optimal_Value,Val_RMSE
+ARIMA,"p, d, q",Stepwise AIC (pmdarima),Auto-selected,
+XGBoost,"n_estimators, max_depth",{50 100} x {3 5},"n_estimators=50, max_depth=5",
+LSTM,"hidden_size, num_layers",{32 64} x {1},"hidden_size=64, num_layers=1",0.1963
+Transformer,"d_model, nhead, num_layers",{64} x {2} x {1},"d_model=64, nhead=2, num_layers=1",0.1567
