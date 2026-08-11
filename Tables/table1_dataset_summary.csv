@@ -1,0 +1,9 @@
+Attribute,Detail,Value
+Source,World Bank Open Data,EG.FEC.RNEW.ZS
+Indicator,Renewable Energy Consumption,% of Total Final Energy Consumption
+Time Period,1960-2020,61 annual observations
+Regions / Groups,11 aggregate entities,4 income groups + 7 geographic regions
+Training Set,1960-2015,56 observations
+Test Set,2016-2020,5 observations
+Missing Values,Linear interpolation + bfill/ffill,Applied per region
+Excluded Years,2021-2022,Incomplete reporting at collection date
