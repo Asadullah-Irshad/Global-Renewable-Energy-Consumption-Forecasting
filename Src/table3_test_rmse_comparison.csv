@@ -1,5 +1,0 @@
-Model,Category,Test_RMSE,Rank
-LSTM,Deep Learning,0.7286,1
-Transformer,Deep Learning,0.8938,2
-ARIMA,Statistical,1.2294,3
-XGBoost,Machine Learning,1.2518,4
