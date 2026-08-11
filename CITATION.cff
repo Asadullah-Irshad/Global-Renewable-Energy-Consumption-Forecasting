@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "Global Renewable Energy Consumption Forecasting: A Comparative Benchmarking Study of Statistical, Machine Learning, and Deep Learning Models"
+authors:
+  - family-names: Biswas
+    given-names: Shaon
+  - family-names: Irshad
+    given-names: Asadullah
+  - family-names: Roy
+    given-names: Paramita
+year: 2026
+doi: 10.7176/CEIS/17-1-05
+journal: "Computer Engineering and Intelligent Systems"
+volume: 17
+issue: 1
+start: 44
+end: 57
+url: "https://iiste.org/Journals/index.php/CEIS/article/view/63772"
+license: CC-BY-3.0
+keywords:
+  - renewable energy forecasting
+  - LSTM
+  - Transformer
+  - ARIMA
+  - XGBoost
+  - time series benchmarking
+  - deep learning
+  - World Bank
+  - energy transition
+  - PyTorch
+preferred-citation:
+  type: article
+  title: "Global Renewable Energy Consumption Forecasting: A Comparative Benchmarking Study of Statistical, Machine Learning, and Deep Learning Models"
+  authors:
+    - family-names: Biswas
+      given-names: Shaon
+    - family-names: Irshad
+      given-names: Asadullah
+    - family-names: Roy
+      given-names: Paramita
+  year: 2026
+  doi: 10.7176/CEIS/17-1-05
+  journal: "Computer Engineering and Intelligent Systems"
+  volume: 17
+  issue: 1
+  start: 44
+  end: 57

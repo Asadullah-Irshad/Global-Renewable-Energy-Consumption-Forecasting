@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data files (third-party — download from World Bank; keep Data/README.md)
+Data/*.xls
+Data/*.xlsx
+Data/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
